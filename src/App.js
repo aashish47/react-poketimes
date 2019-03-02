@@ -6,6 +6,7 @@ import Navbar from './components/Navbar'
 import {BrowserRouter , Route , Switch} from 'react-router-dom'
 import Post from './components/Post'
 
+
 class App extends Component {
   render() {
     return (
